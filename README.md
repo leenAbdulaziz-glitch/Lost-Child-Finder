@@ -85,3 +85,7 @@ Lost Child Finder is a computer vision system designed to improve public safety 
 |------|------|
 | **Abdullah** | Model training, system development & evaluation |
 | **Leen** | Model training, system development & evaluation |
+
+---
+##Demo
+"https://drive.google.com/drive/folders/1s5FeLKw9REpY6cIBpYBThi4W1oqj5sgR?usp=sharing"
