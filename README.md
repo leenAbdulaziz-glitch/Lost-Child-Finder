@@ -35,16 +35,33 @@ Lost Child Finder is a computer vision system designed to improve public safety 
 
 ## Dataset
 
-| Dataset | Source | Images |
-|---------|--------|--------|
+| Dataset | Source | Total Images |
+|---------|--------|-------------|
 | Children vs Adults (2024) | Roboflow — a-4euhx | 999 |
 | Children vs Adults (2025) | Roboflow — aghababa | 797 |
+
+**Training split (Dataset 2024):**
+
+| Split | Images |
+|-------|--------|
+| Train | ~797 |
+| Validation | 102 |
+| Test | ~100 |
 
 ---
 
 ## Results
 
-Evaluated on the validation set (102 images, 151 instances):
+### Training Results
+
+| Metric | Value |
+|--------|-------|
+| mAP50 | 0.892 |
+| mAP50-95 | 0.662 |
+| Precision | 0.763 |
+| Recall | 0.855 |
+
+### Evaluation Results (Validation Set — 102 images)
 
 | Metric | Value |
 |--------|-------|

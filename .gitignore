@@ -1,0 +1,5 @@
+runs/
+Children-vs-Adults-yolo-4/
+__pycache__/
+.DS_Store
+*.pyc
