@@ -56,26 +56,26 @@ Lost Child Finder is a computer vision system designed to improve public safety 
 
 | Metric | Value |
 |--------|-------|
-| mAP50 | 0.892 |
-| mAP50-95 | 0.662 |
-| Precision | 0.763 |
-| Recall | 0.855 |
+| mAP50 | 0.843 |
+| mAP50-95 | 0.626 |
+| Precision | 0.801 |
+| Recall | 0.777 |
 
 ### Evaluation Results (Validation Set — 102 images)
 
 | Metric | Value |
 |--------|-------|
-| mAP50 | 0.341 |
-| mAP50-95 | 0.076 |
-| Precision | 0.411 |
-| Recall | 0.564 |
+| mAP50 | 0.805 |
+| mAP50-95 | 0.587 |
+| Precision | 0.771 |
+| Recall | 0.857 |
 
 **Per-class results:**
 
 | Class | Precision | Recall | F1-Score |
 |-------|-----------|--------|----------|
-| Adult | 0.374 | 0.642 | 0.473 |
-| Child | 0.447 | 0.486 | 0.466 |
+| Adult | 0.763 | 0.913 | 0.831 |
+| Child | 0.779 | 0.800 | 0.789 |
 
 ---
 
